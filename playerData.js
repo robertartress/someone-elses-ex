@@ -1,7 +1,7 @@
 var playerData = [
   {
-    title: "PLACEHOLDER_SONG_TITLE",
-    file: "PLACEHOLDER_FILENAME",
+    title: "S.E.X._mix 5_(1644 mastered)",
+    file: "S.E.X._mix 5_(1644 mastered).flac",
     howl: null
   }
   // Add more tracks as needed
